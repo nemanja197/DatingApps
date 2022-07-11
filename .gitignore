@@ -54,6 +54,7 @@ BenchmarkDotNet.Artifacts/
 # .NET Core
 project.lock.json
 project.fragment.lock.json
+appsettings.json
 artifacts/
 
 # StyleCop
@@ -339,4 +340,3 @@ ASALocalRun/
 # BeatPulse healthcheck temp database
 healthchecksdb
 
-## appsettings.json
